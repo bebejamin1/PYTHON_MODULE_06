@@ -1,5 +1,3 @@
-#! /bin/python3.10
-
 # Basic elemental spells
 # Sorts élémentaires de base
 

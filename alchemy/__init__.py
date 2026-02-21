@@ -1,5 +1,3 @@
-#! /bin/python3.10
-
 # The main sacred scroll
 # Le principal rouleau sacré
 
