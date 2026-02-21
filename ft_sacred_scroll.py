@@ -6,7 +6,7 @@
 # from alchemy import elements
 import alchemy
 
-if __name__ in "__main__":
+if __name__ == "__main__":
     print("\n" + " Sacred Scroll Mastery ".center(79, "=") + "\n")
 
     spells = ["create_fire", "create_water", "create_earth", "create_air"]
